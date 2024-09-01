@@ -1,4 +1,3 @@
-Claro! Aqui está o README.md revisado com as modificações solicitadas:
 
 ---
 
@@ -87,9 +86,11 @@ Para realizar o deploy do microserviço:
 ### 1. Como faço para alterar o modelo de machine learning?
 Para alterar o modelo, modifique o arquivo `model.py`, substituindo o carregamento do modelo atual (`random_forest_model.pkl`) pelo novo modelo desejado. Lembre-se de treinar e salvar o modelo com antecedência.
 
+## IMG
+![Imagem](img_modelo.jpg)
+
+
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-
-Esse README agora está mais conciso, mantendo-se claro e informativo, sem as seções de contribuições e exemplos de requisição.
